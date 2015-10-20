@@ -14,7 +14,7 @@ This is the Holmusk Frontend Web Developer challenge. The rules of the challenge
 * You will be able to submit the challenge anytime you are ready provided the challenge is still open
 * Your code should be commented
 * Because we, at Holmusk, take code organization seriously, please do ensure your source files are organized when you submit
-* Please complete the code in your local repository and email a patch file / the link to careers@holmusk.com
+* Please complete the code in your local repository and email a patch file / the link to yamini.bhaskar@holmusk.com
 * Please note that you will also be judged on the elegance of your code, level of abstraction and technical skills presented in the implementation. For more details, refer to the Judging Criteria section below.
 
 ## The Challenge 
