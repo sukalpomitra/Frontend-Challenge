@@ -69,6 +69,7 @@ $scope.search = function(){
 $scope.add = function(log) {
 	log.loggedDate = Date.now();
 	Log.save(log,function(log){
+			toaster.success('Food Logged Successfully!');
 			refresh();
 		});
 };
